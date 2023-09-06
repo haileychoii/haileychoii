@@ -29,7 +29,10 @@
  </a> 
  </div>
 
+<p align = "center ">
 ![CatCatStareGIF](https://github.com/haileychoii/haileychoii/assets/128196297/961cda07-059b-4d37-aeb4-f6a91ae36ec1)
+<p>
+
 - 🔭 I’m currently majoring in Statistics.
 - 🌱 I’m currently learning :Web Programming:, :Deep Learning:, :Data Analysis:.
 - 👯 I’m looking to collaborate on:ESG:.
