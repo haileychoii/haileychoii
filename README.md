@@ -1,4 +1,4 @@
-#✨Hailey Choi✨
+# ✨Hailey Choi✨
 
 ## Welcome to My GitHub💞
 ### Hi, I am student who mainly studies :artificial intelligence: and :data science:.
