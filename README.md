@@ -1,7 +1,8 @@
-### ✨I'm Hailey Choi✨
+## ✨Hailey Choi✨
 
-#### Welcome to My GitHub💞
+### Welcome to My GitHub💞
 #### Hi, I am student who mainly studies :artificial intelligence: and :data science:.
+- - - -
 
 <!-- Light Mode --> 
  <div align="center">  
@@ -11,7 +12,20 @@
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"> 
  <img height=259 src="https://github-readme-stats-git-masterrstaa-haileychoii.vercel.app/api?username=haileychoii&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Hailey's Github stats" /> 
  </a> 
- </div> 
+ </div>
+
+
+<p align="center"> 
+         <img width="450em" src="https://github-readme-stats.vercel.app/api?username=haileychoii&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" /> 
+ </p> 
+  
+ <p align="center"> 
+         <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=haileychoii&include_all_commits=true&hide_border=true&theme=dark"/> 
+ </p> 
+  
+ <p align="center"> 
+         <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileychoii&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide="> 
+ </p>
   
  <!-- Dark Mode --> 
  <div align="center">  
