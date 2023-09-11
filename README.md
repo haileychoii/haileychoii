@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently majoring in Statistics.
 - 🌱 I’m currently learning :Web Programming:, :Deep Learning:, :Data Analysis:.
-- 👯 I’m looking to collaborate on:ESG:.
+- 👯 I’m looking to collaborate on  ::ESG::.
 - 🤔 I’m looking for help with My Career.
 - 💬 Ask me about ???
 - 📫 How to reach me: e-mail
