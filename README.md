@@ -4,12 +4,8 @@
 ### Hi, I am student who mainly studies **artificial intelligence** and **data science**.
  
 <p align ="center">
-![CatKittyGIF](https://github.com/haileychoii/haileychoii/assets/128196297/f955dc9c-7ae9-424a-97c1-41cbd17ed3a3)
-
-
-
-    
-![CatCatStareGIF](https://github.com/haileychoii/haileychoii/assets/128196297/961cda07-059b-4d37-aeb4-f6a91ae36ec1)
+ 
+  ![CatKittyGIF](https://github.com/haileychoii/haileychoii/assets/128196297/f955dc9c-7ae9-424a-97c1-41cbd17ed3a3)
 </p>
 
 - 🔭 I’m currently majoring in Statistics.
