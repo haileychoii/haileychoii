@@ -30,16 +30,16 @@
 
 ---
 
-## 🧩 Skill Level (Self-assessed)
+## 🧩 My Stack & Proficiency
 
-| Skill         | Level |
-|---------------|-------|
-| Python        | ![Python](https://progress-bar.dev/80/?title=Experienced&width=200&color=blue) |
-| SQL           | ![SQL](https://progress-bar.dev/65/?title=Intermediate&width=200&color=green) |
-| Excel         | ![Excel](https://progress-bar.dev/85/?title=Advanced&width=200&color=brightgreen) |
-| HTML/CSS      | ![HTML](https://progress-bar.dev/70/?title=Competent&width=200&color=orange) |
-| Figma         | ![Figma](https://progress-bar.dev/65/?title=Intermediate&width=200&color=purple) |
-| JavaScript    | ![JS](https://progress-bar.dev/40/?title=Basic&width=200&color=red) |
+![Python](https://img.shields.io/badge/Python-Experienced-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Basic-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Basic-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ---
 
